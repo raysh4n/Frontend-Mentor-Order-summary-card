@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-order-summary-card-P1L5YxG3zH)
-- Live Site URL: [Add live site URL here](https://fem-order-summary-card-raysh3n.netlify.app/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-order-summary-card-P1L5YxG3zH)
+- Live Site URL: [here](https://fem-order-summary-card-raysh3n.netlify.app/)
 
 ## My process
 
